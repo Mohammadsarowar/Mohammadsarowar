@@ -3,7 +3,7 @@
 
 <h3>**Mohammadsarowar/Mohammadsarowar**</h3> is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<p color:bule>Here are some ideas to get you started:</p>
+<p color:blue>Here are some ideas to get you started:</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
